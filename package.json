@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/sanyi0802/goit-js-hw-08."
     },
     "keywords": [],
     "author": "",
